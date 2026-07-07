@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 AkariOS — Website
+# AkariOS — Website
 
 **The official site for AkariOS — a Windows debloat &amp; performance Playbook for AME.**
 
